@@ -1,5 +1,6 @@
 # Cinestream
-# live at -  "https://cine-stream-harmeet.vercel.app/"
+# live at -  "https://cine-stream-harmeet.vercel.app/" ![image](https://github.com/user-attachments/assets/b22ab46c-4c0f-4c83-8410-73f1d19699a7)
+
 # Movie Streaming Platform
 
 A modern, responsive movie streaming platform built with Next.js and Tailwind CSS. The app features a sleek UI, intuitive navigation, and components optimized for scalability and performance.
